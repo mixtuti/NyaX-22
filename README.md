@@ -14,5 +14,5 @@ Unityroom→https://unityroom.com/games/nayx22
 
 ## その他
 
-その他の作品はこちらをご覧ください。
+その他の作品はこちらをご覧ください。<br>
 https://mixtuti.github.io/mixtuti/index.html
